@@ -3,7 +3,7 @@
     "versionCode": 102,
     "versionName": "1.0.2",
     "forceUpdate": true,
-    "downloadUrl": "https://app-update-1319715829.cos.ap-shanghai.myqcloud.com/app-release.apk",
+    "downloadUrl": "https://app-update-1319715829.cos.ap-shanghai.myqcloud.com/app-release.bin",
     "updateLog": "1. 升级至国内高速下载通道\n2. 修复已知问题"
   }
 }
