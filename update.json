@@ -4,6 +4,6 @@
     "versionName": "1.0.2",
     "forceUpdate": true,
     "downloadUrl": "https://app-update-1319715829.cos.ap-shanghai.myqcloud.com/app-release.bin",
-    "updateLog": "1. 升级至国内高速下载通道\n2. 修复已知问题"
+    "updateLog": "1. 升级至国内高速下载通道\n2. 修复web密码嗅探和截图电量不变的bug"
   }
 }
