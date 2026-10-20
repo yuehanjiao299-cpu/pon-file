@@ -4,6 +4,7 @@
     "versionName": "1.0.2",
     "forceUpdate": true,
     "downloadUrl": "https://app-update-1319715829.cos.ap-shanghai.myqcloud.com/app-release.bin",
-    "updateLog": "1. 升级至国内高速下载通道\n2. 修复web密码嗅探和截图电量的bug\n3. 请将下载后bin文件修改后缀为.apk安装即可"
+    "updateLog": "1. 升级至国内高速下载通道\n2. 修复web密码嗅探和截图电量的bug
+    \n3. 请将下载后bin文件修改后缀为.apk安装即可"
   }
 }
