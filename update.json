@@ -1,10 +1,10 @@
 {
   "app_update": {
-    "versionCode": 101,
-    "versionName": "1.0.1",
+    "versionCode": 102,
+    "versionName": "1.0.2",
     "forceUpdate": true,
     "downloadUrl": "https://ghproxy.net/https://github.com/yuehanjiao299-cpu/pon-file/releases/download/v1.0.1/app-release.apk",
-    "updateLog": "【重要版本更新 v1.0.1】\n1. 重构光猫改码的ui美化与排版\n2.优化刷机页面的日志覆盖⚠️ 本次为专网通信协议升级版本，旧版本将无法继续调度，请务必更新后使用！"
+    "updateLog": "复制到浏览器下载https://app-update-1319715829.cos.ap-shanghai.myqcloud.com/app-release.apk;"
   }
 }
 
